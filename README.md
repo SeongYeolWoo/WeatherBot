@@ -18,4 +18,7 @@
 ![image](https://user-images.githubusercontent.com/76803357/184537757-8f5f686c-f929-4b74-8781-a417e5c7636a.png)
 
 Facebook Page
-![image](https://user-images.githubusercontent.com/76803357/184537798-5c8570a4-bcb7-4674-a5a8-3f9496b8dded.png)
+https://www.facebook.com/NSU-WeatherBot-105370738783222
+
+
+
