@@ -9,6 +9,8 @@
 
 기술스택: Dialogflow, Beautifulsoup, Flask, Heroku
 
+구현환경: VSCode
+
 구성도
 ![image](https://user-images.githubusercontent.com/76803357/184537734-b75819dd-6a71-478f-a319-4ce9742a7fec.png)
 
